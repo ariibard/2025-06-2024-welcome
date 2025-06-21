@@ -1,0 +1,73 @@
+---
+format: 
+  wildflower-revealjs:
+    footer: <https://github.com/ariibard/quarto-revealjs-wildflower>
+    embed-resources: true
+---
+
+## ¡Mi3rd4, Git! {.flores-title1 .center}
+
+### Siete posibles problemas y cómo solucionarlos
+
+::: r-stack
+Organizado por **R en Buenos Aires** y **R Ladies Santa Rosa**
+:::
+
+## Código de conducta {.flores-slide1 .center}
+
+::: incremental
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos al equipo organizador identificado en el zoom o por slack.
+
+-   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) 🤝[Código de conducta de RLadies Buenos Aires](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
+:::
+
+## R Ladies Santa Rosa {.flores-slide3 .center}
+
+Customize your presentations with ease, keeping clarity and style aligned.
+
+## R en Buenos Aires {.flores-slide2 .center}
+
+::: {style="display: flex; justify-content: center;"}
+::::: columns
+::: {.column width="30%" .center}
+![](imagenes/icon.png){width="500"}
+:::
+
+::: {.column width="70%" .center}
+<br> Este grupo surge con la misión de **conectar a quienes usan el lenguaje de programación R** en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El **objetivo** es *promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios*.
+:::
+:::::
+:::
+
+# Organizadoras {.flores-slide5 .center}
+
+::: columns
+::: {.column width="50%"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
+
+**Andrea Gomez Vargas**
+:::
+
+::: {.column width="50%"}
+![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: center;"}
+
+**Ariana Bardauil**
+:::
+:::
+
+## Patrocinan {.flores-section3 .center}
+
+![](imagenes/patrocinadores.png){fig-align="center"}
+
+
+# Próximas actividades {.flores-section2 .center}
+
+## Seguinos {.flores-slide4}
+
+### En redes y canal de slack
+
+Choose fonts and styles to enhance readability and aesthetics.
+
+# Empezamos {.flores-slide8}
+
+![](https://i.gifer.com/2GU.gif){fig-align="center" width="214"}
