@@ -10,20 +10,22 @@ format:
 ### Siete posibles problemas y cómo solucionarlos
 
 ::: r-stack
-Organizado por **R en Buenos Aires** y **R Ladies Santa Rosa**
-:::
+Organizan **R en Buenos Aires** y **R-Ladies Santa Rosa**
+::: 
 
 ## Código de conducta {.flores-slide1 .center}
 
 ::: incremental
 -   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos al equipo organizador identificado en el zoom o por slack.
 
--   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) 🤝[Código de conducta de RLadies Buenos Aires](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
+-   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea.
+
+- 🤝 Conoce el [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) y el [Código de conducta de RLadies Santa Rosa](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
 :::
 
 ## R Ladies Santa Rosa {.flores-slide3 .center}
 
-Customize your presentations with ease, keeping clarity and style aligned.
+Es parte de una organización mundial para promover la diversidad de género en la comunidad R. Su objetivo es generar un espacio cómodo y amigable para intercambiar ideas, conocimientos y hacer R más popular y accesible, especialmente entre las mujeres que viven en Santa Rosa, La Pampa.
 
 ## R en Buenos Aires {.flores-slide2 .center}
 
@@ -39,25 +41,65 @@ Customize your presentations with ease, keeping clarity and style aligned.
 :::::
 :::
 
-# Organizadoras {.flores-slide5 .center}
+# Organizan este encuentro {.flores-slide5 .center}
 
 ::: columns
-::: {.column width="50%"}
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="30%"}
 ![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
 
 **Andrea Gomez Vargas**
 :::
 
-::: {.column width="50%"}
+::: {.column width="30%"}
 ![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: center;"}
 
 **Ariana Bardauil**
 :::
+
+::: {.column width="30%"}
+
+
+![](https://avatars.githubusercontent.com/u/2473676?v=4){width="50%" style="border-radius: 80%;"}
+
+**Yanina Bellini Saibene**
+
 :::
 
-## Patrocinan {.flores-section3 .center}
+:::
 
-![](imagenes/patrocinadores.png){fig-align="center"}
+## Apoyan este encuentro {.flores-section3 .center}
+
+
+![](imagenes/rconsortium.png){fig-align="center"  width="600"}
+
+
+![](imagenes/ropensci.svg){fig-align="center" width="300"}
+
+
+# Oradora del encuentro
+
+## Maëlle Salmon 
+
+::: columns
+::: {.column width="60%"}
+
+Es doctora en estadística e ingeniera en software de R e investigación. Trabaja en rOpenSci, creó el blog de R-hub y coescribió el libro HTTP testing in R junto a Scott Chamberlain. 
+
+Además, es miembro del equipo global de R-Ladies+ y colabora activamente en el desarrollo de herramientas para la comunidad de R.
+
+:::
+
+::: {.column width="40%"}
+
+![© Profile picture by Julie Noury Soyer](https://avatars.githubusercontent.com/u/8360597?v=4){width="50%" style="border-radius: 80%;"}
+
+:::
+:::
+
 
 
 # Próximas actividades {.flores-section2 .center}
