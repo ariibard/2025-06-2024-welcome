@@ -72,7 +72,7 @@ Es parte de una organización mundial para promover la diversidad de género en 
 
 ![](imagenes/ropensci.svg){fig-align="center" width="300"}
 
-## Oradora del encuentro {.flores-slide4 .center}
+## Oradora del encuentro {.flores-slide4 .center .smaller}
 
 ### Maëlle Salmon
 
